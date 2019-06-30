@@ -1,4 +1,12 @@
 body {
-	background-image: url("../img/landscape.jpg");
+	background-image: url("../img/japan.jpg");
 	
+}
+
+h5 {
+	font-family:'Pacifico', cursive;
+}
+
+p {
+	font-family: 'EB Garamond', cursive;
 }
